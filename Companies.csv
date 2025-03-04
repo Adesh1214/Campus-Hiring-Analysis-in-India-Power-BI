@@ -1,0 +1,194 @@
+Company_ID,Company_Name,Industry,Location,Founded_Year,Employee_Count,Avg_Salary,Interview_Process
+1,State Bank of India,Banking & Finance,Mumbai,2014,147428,1000000,Aptitude Test > Technical Round > HR Interview
+2,HDFC Bank,Banking & Finance,Hyderabad,1998,7678,1000000,Aptitude Test > Technical Round > HR Interview
+3,ICICI Bank,Banking & Finance,Mumbai,1984,227067,1000000,Aptitude Test > Technical Round > HR Interview
+4,Axis Bank,Banking & Finance,Pune,1981,11126,1000000,Aptitude Test > Technical Round > HR Interview
+5,Kotak Mahindra Bank,Banking & Finance,Delhi,1978,466548,1000000,Aptitude Test > Technical Round > HR Interview
+6,IndusInd Bank,Banking & Finance,Pune,1991,106150,1000000,Aptitude Test > Technical Round > HR Interview
+7,Bank of Baroda,Banking & Finance,Pune,2010,451719,1000000,Aptitude Test > Technical Round > HR Interview
+8,Punjab National Bank,Banking & Finance,Mumbai,2012,324212,1000000,Aptitude Test > Technical Round > HR Interview
+9,Canara Bank,Banking & Finance,Bangalore,2005,181404,1000000,Aptitude Test > Technical Round > HR Interview
+10,Union Bank of India,Banking & Finance,Bangalore,1976,95513,1000000,Aptitude Test > Technical Round > HR Interview
+11,Bajaj Finserv,Banking & Finance,Hyderabad,2021,473094,1000000,Aptitude Test > Technical Round > HR Interview
+12,LIC Housing Finance,Banking & Finance,Hyderabad,2011,295325,1000000,Aptitude Test > Technical Round > HR Interview
+13,Muthoot Finance,Banking & Finance,Delhi,2016,65574,1000000,Aptitude Test > Technical Round > HR Interview
+14,SBI Life Insurance,Banking & Finance,Bangalore,1995,8668,1000000,Aptitude Test > Technical Round > HR Interview
+15,HDFC Life Insurance,Banking & Finance,Hyderabad,1976,1968,1000000,Aptitude Test > Technical Round > HR Interview
+16,ICICI Prudential Life Insurance,Banking & Finance,Chennai,2013,82634,1000000,Aptitude Test > Technical Round > HR Interview
+17,Max Financial Services,Banking & Finance,Mumbai,2001,449011,1000000,Aptitude Test > Technical Round > HR Interview
+18,Shriram Transport Finance,Banking & Finance,Chennai,1972,469363,1000000,Aptitude Test > Technical Round > HR Interview
+19,Mahindra & Mahindra Financial Services,Banking & Finance,Delhi,2002,62079,1000000,Aptitude Test > Technical Round > HR Interview
+20,IDFC First Bank,Banking & Finance,Chennai,2010,127731,1000000,Aptitude Test > Technical Round > HR Interview
+21,TCS,IT Services,Hyderabad,2009,190656,700000,Online Test > Technical Interview > HR Interview
+22,Infosys,IT Services,Kolkata,2015,195979,700000,Online Test > Technical Interview > HR Interview
+23,Wipro,IT Services,Delhi,1984,66283,700000,Online Test > Technical Interview > HR Interview
+24,HCL Technologies,IT Services,Delhi,2011,281473,700000,Online Test > Technical Interview > HR Interview
+25,Tech Mahindra,IT Services,Chennai,1981,229827,700000,Online Test > Technical Interview > HR Interview
+26,Larsen & Toubro Infotech,IT Services,Pune,2021,301325,700000,Online Test > Technical Interview > HR Interview
+27,Mindtree,IT Services,Chennai,2002,202151,700000,Online Test > Technical Interview > HR Interview
+28,Mphasis,IT Services,Bangalore,1992,356012,700000,Online Test > Technical Interview > HR Interview
+29,Oracle Financial Services Software,IT Services,Chennai,1978,100146,700000,Online Test > Technical Interview > HR Interview
+30,Persistent Systems,IT Services,Delhi,1995,436788,700000,Online Test > Technical Interview > HR Interview
+31,Hexaware Technologies,IT Services,Bangalore,2022,436902,700000,Online Test > Technical Interview > HR Interview
+32,NIIT Technologies,IT Services,Mumbai,1986,117960,700000,Online Test > Technical Interview > HR Interview
+33,Cognizant,IT Services,Bangalore,1986,138634,700000,Online Test > Technical Interview > HR Interview
+34,Capgemini India,IT Services,Kolkata,1986,312213,700000,Online Test > Technical Interview > HR Interview
+35,IBM India,IT Services,Pune,1990,484643,700000,Online Test > Technical Interview > HR Interview
+36,Accenture India,Consulting,Pune,1974,108500,1200000,Case Study > Behavioral Interview > HR Interview
+37,L&T Technology Services,IT Services,Pune,1984,266529,700000,Online Test > Technical Interview > HR Interview
+38,Cyient,IT Services,Bangalore,1988,123828,700000,Online Test > Technical Interview > HR Interview
+39,Zensar Technologies,IT Services,Hyderabad,2005,185090,700000,Online Test > Technical Interview > HR Interview
+40,Google India,Technology,Hyderabad,2020,44308,1100000,Coding Test > Technical Round > HR Interview
+41,Microsoft India,Technology,Hyderabad,1997,229490,1100000,Coding Test > Technical Round > HR Interview
+42,Amazon India,E-commerce,Kolkata,1976,259835,850000,Online Assessment > Tech Round > Business Discussion
+43,Flipkart,E-commerce,Bangalore,2016,252690,850000,Online Assessment > Tech Round > Business Discussion
+44,Zomato,E-commerce,Kolkata,2016,31960,850000,Online Assessment > Tech Round > Business Discussion
+45,Swiggy,E-commerce,Bangalore,2004,394140,850000,Online Assessment > Tech Round > Business Discussion
+46,Meesho,E-commerce,Delhi,1992,385291,850000,Online Assessment > Tech Round > Business Discussion
+47,Paytm,FinTech,Kolkata,2005,355236,950000,Aptitude Test > Coding Round > HR Interview
+48,PhonePe,FinTech,Bangalore,2002,168858,950000,Aptitude Test > Coding Round > HR Interview
+49,Reliance Industries,Conglomerate,Hyderabad,1996,78843,900000,Aptitude Test > Technical > HR Interview
+50,Adani Group,Conglomerate,Bangalore,2012,497930,900000,Aptitude Test > Technical > HR Interview
+51,Maruti Suzuki,Automobile,Kolkata,1976,476814,870000,Written Test > Technical Round > HR Interview
+52,Mahindra & Mahindra,Automobile,Hyderabad,2008,330883,870000,Written Test > Technical Round > HR Interview
+53,Tata Motors,Automobile,Mumbai,1999,18986,870000,Written Test > Technical Round > HR Interview
+54,Ashok Leyland,Automobile,Bangalore,2005,398502,870000,Written Test > Technical Round > HR Interview
+55,Hero MotoCorp,Automobile,Bangalore,2007,312970,870000,Written Test > Technical Round > HR Interview
+56,Bajaj Auto,Automobile,Delhi,1981,46965,870000,Written Test > Technical Round > HR Interview
+57,TVS Motor Company,Automobile,Delhi,2021,440036,870000,Written Test > Technical Round > HR Interview
+58,Eicher Motors,Automobile,Kolkata,2021,221161,870000,Written Test > Technical Round > HR Interview
+59,Cipla,Pharma & Healthcare,Chennai,1981,108076,800000,NA
+60,Sun Pharmaceuticals,Pharma & Healthcare,Bangalore,1975,445518,800000,NA
+61,Pfizer India,Pharma & Healthcare,Hyderabad,1971,203520,800000,NA
+62,Biocon,Pharma & Healthcare,Kolkata,1999,430186,800000,NA
+63,Dr. Reddy’s Laboratories,Pharma & Healthcare,Delhi,1994,402830,800000,NA
+64,Glenmark Pharmaceuticals,Pharma & Healthcare,Kolkata,2012,483546,800000,NA
+65,Nestle India,FMCG,Hyderabad,1997,29711,920000,Case Study > Behavioral Interview > HR Discussion
+66,Hindustan Unilever,FMCG,Hyderabad,1983,356506,920000,Case Study > Behavioral Interview > HR Discussion
+67,Britannia Industries,FMCG,Chennai,2014,96042,920000,Case Study > Behavioral Interview > HR Discussion
+68,ITC Limited,FMCG,Delhi,2017,375173,920000,Case Study > Behavioral Interview > HR Discussion
+69,Dabur India,FMCG,Hyderabad,1981,466690,920000,Case Study > Behavioral Interview > HR Discussion
+70,Asian Paints,Manufacturing,Chennai,2015,47636,800000,Written Test > Technical > Managerial Interview
+71,Tata Steel,Manufacturing,Hyderabad,1999,293664,800000,Written Test > Technical > Managerial Interview
+72,Vedanta Limited,Manufacturing,Pune,2000,459261,800000,Written Test > Technical > Managerial Interview
+73,JSW Steel,Manufacturing,Kolkata,1984,446053,800000,Written Test > Technical > Managerial Interview
+74,BHEL,Manufacturing,Chennai,1986,143527,800000,Written Test > Technical > Managerial Interview
+75,Siemens India,Manufacturing,Delhi,1995,444389,800000,Written Test > Technical > Managerial Interview
+76,Larsen & Toubro,Manufacturing,Delhi,1971,172816,800000,Written Test > Technical > Managerial Interview
+77,Tata Chemicals,Manufacturing,Pune,1989,39612,800000,Written Test > Technical > Managerial Interview
+78,ABB India,Manufacturing,Kolkata,2006,75235,800000,Written Test > Technical > Managerial Interview
+79,Havells India,Manufacturing,Kolkata,2017,206182,800000,Written Test > Technical > Managerial Interview
+80,Pidilite Industries,Manufacturing,Delhi,1998,310882,800000,Written Test > Technical > Managerial Interview
+81,Bharti Airtel,Telecom,Kolkata,1986,380179,890000,Aptitude Test > Technical Interview > HR Discussion
+82,Vodafone Idea,Telecom,Chennai,2015,443316,890000,Aptitude Test > Technical Interview > HR Discussion
+83,Jio Platforms,Telecom,Delhi,1977,48713,890000,Aptitude Test > Technical Interview > HR Discussion
+84,Bharat Petroleum,Oil & Gas,Kolkata,2020,456159,930000,Written Test > Technical > HR Interview
+85,Indian Oil Corporation,Oil & Gas,Pune,1985,456930,930000,Written Test > Technical > HR Interview
+86,ONGC,Oil & Gas,Delhi,2008,352012,930000,Written Test > Technical > HR Interview
+87,Hindustan Petroleum,Oil & Gas,Bangalore,2002,433378,930000,Written Test > Technical > HR Interview
+88,Coal India,Mining,Chennai,2003,420874,800000,Aptitude Test > HR Interview
+89,GAIL India,Oil & Gas,Kolkata,1987,131720,930000,Written Test > Technical > HR Interview
+90,Power Grid Corporation,Energy,Kolkata,1973,73154,800000,NA
+91,NTPC,Energy,Hyderabad,2004,322826,800000,NA
+92,Tata Power,Energy,Hyderabad,2021,135007,800000,NA
+93,Adani Power,Energy,Mumbai,2017,20079,800000,NA
+94,Reliance Power,Energy,Delhi,1989,476960,800000,NA
+95,Ola Cabs,Transportation,Kolkata,2002,14352,800000,Written Test > Technical Round > Managerial Interview
+96,OYO Rooms,Hospitality,Chennai,1978,110099,800000,NA
+97,BYJU's,EdTech,Kolkata,2005,282822,750000,Demo Session > Technical Interview > HR Discussion
+98,Zomato,Food Delivery,Chennai,1978,157103,800000,NA
+99,Swiggy,Food Delivery,Hyderabad,1987,381623,800000,NA
+100,Paytm,FinTech,Delhi,2021,321775,950000,Aptitude Test > Coding Round > HR Interview
+101,PhonePe,FinTech,Chennai,1994,328862,950000,Aptitude Test > Coding Round > HR Interview
+102,Flipkart,E-commerce,Delhi,1987,167483,850000,Online Assessment > Tech Round > Business Discussion
+103,Snapdeal,E-commerce,Mumbai,2003,471153,850000,Online Assessment > Tech Round > Business Discussion
+104,BigBasket,E-commerce,Pune,2010,46904,850000,Online Assessment > Tech Round > Business Discussion
+105,Grofers,E-commerce,Mumbai,1984,480433,850000,Online Assessment > Tech Round > Business Discussion
+106,Delhivery,Logistics,Hyderabad,1983,409785,800000,NA
+107,UrbanClap,Services,Delhi,2018,313749,800000,NA
+108,Practo,HealthTech,Hyderabad,2013,473793,800000,NA
+109,PolicyBazaar,InsurTech,Pune,1980,495260,800000,NA
+110,Freshworks,SaaS,Delhi,2006,428494,800000,NA
+111,InMobi,Advertising,Hyderabad,2009,483664,800000,NA
+112,Hike Messenger,Social Media,Chennai,2022,268201,800000,NA
+113,Quikr,Classifieds,Chennai,1998,123661,800000,NA
+114,ShopClues,E-commerce,Kolkata,1981,105430,850000,Online Assessment > Tech Round > Business Discussion
+115,Rivigo,Logistics,Kolkata,2022,482646,800000,NA
+116,Udaan,B2B E-commerce,Pune,1977,143335,800000,NA
+117,Lenskart,E-commerce,Bangalore,2019,492297,850000,Online Assessment > Tech Round > Business Discussion
+118,Dream11,Fantasy Sports,Chennai,1977,44534,800000,NA
+119,Razorpay,FinTech,Hyderabad,1986,362053,950000,Aptitude Test > Coding Round > HR Interview
+120,CRED,FinTech,Kolkata,1999,466355,950000,Aptitude Test > Coding Round > HR Interview
+121,Dunzo,Delivery Services,Chennai,1978,428074,800000,NA
+122,Meesho,E-commerce,Chennai,2017,172302,850000,Online Assessment > Tech Round > Business Discussion
+123,ShareChat,Social Media,Pune,2015,493443,800000,NA
+124,Nykaa,E-commerce,Delhi,2004,202202,850000,Online Assessment > Tech Round > Business Discussion
+125,Cure.fit,HealthTech,Mumbai,2010,106217,800000,NA
+126,Bounce,Transportation,Kolkata,2022,239571,800000,Written Test > Technical Round > Managerial Interview
+127,BlackBuck,Logistics,Mumbai,1981,493876,800000,NA
+128,Cars24,E-commerce,Mumbai,2011,459856,850000,Online Assessment > Tech Round > Business Discussion
+129,CarDekho,E-commerce,Chennai,2009,103136,850000,Online Assessment > Tech Round > Business Discussion
+130,CoinDCX,Cryptocurrency,Delhi,2022,331677,800000,NA
+131,Dailyhunt,News Aggregator,Delhi,1982,299714,800000,NA
+132,Dream Sports,SportsTech,Kolkata,1978,108414,800000,NA
+133,FirstCry,E-commerce,Mumbai,1992,456826,850000,Online Assessment > Tech Round > Business Discussion
+134,Gaana,Music Streaming,Mumbai,2000,473538,800000,NA
+135,Gojek India,Ride Sharing,Mumbai,2011,205484,800000,NA
+136,Groww,FinTech,Delhi,1992,120049,950000,Aptitude Test > Coding Round > HR Interview
+137,Infra.Market,B2B E-commerce,Chennai,1977,202173,800000,NA
+138,Khatabook,FinTech,Kolkata,2014,152815,950000,Aptitude Test > Coding Round > HR Interview
+139,Moglix,B2B E-commerce,Bangalore,2020,480758,800000,NA
+140,Mswipe,FinTech,Mumbai,2019,456439,950000,Aptitude Test > Coding Round > HR Interview
+141,MyGate,Security Services,Pune,2020,165756,800000,NA
+142,NoBroker,Real Estate,Hyderabad,1972,305855,800000,NA
+143,PharmEasy,HealthTech,Mumbai,2011,12822,800000,NA
+144,Pine Labs,FinTech,Chennai,2001,142478,950000,Aptitude Test > Coding Round > HR Interview
+145,Postman,SaaS,Chennai,2004,411284,800000,NA
+146,Rebel Foods,Cloud Kitchen,Bangalore,2013,193429,800000,NA
+147,Unacademy,EdTech,Pune,2020,226293,750000,Demo Session > Technical Interview > HR Discussion
+148,UpGrad,EdTech,Pune,2002,250200,750000,Demo Session > Technical Interview > HR Discussion
+149,Vedantu,EdTech,Bangalore,2020,109954,750000,Demo Session > Technical Interview > HR Discussion
+150,Zerodha,FinTech,Pune,1978,174066,950000,Aptitude Test > Coding Round > HR Interview
+151,Zivame,E-commerce,Bangalore,1997,63270,850000,Online Assessment > Tech Round > Business Discussion
+152,Zoomcar,Transportation,Mumbai,1994,442018,800000,Written Test > Technical Round > Managerial Interview
+153,1mg,HealthTech,Kolkata,1978,249791,800000,NA
+154,Acko General Insurance,InsurTech,Mumbai,2000,52698,800000,NA
+155,AgroStar,AgriTech,Mumbai,2015,226703,800000,NA
+156,Apna,Recruitment,Hyderabad,1973,176148,800000,NA
+157,BharatPe,FinTech,Chennai,2001,431727,950000,Aptitude Test > Coding Round > HR Interview
+158,Bewakoof,E-commerce,Mumbai,2000,353687,850000,Online Assessment > Tech Round > Business Discussion
+159,BillDesk,FinTech,Bangalore,2012,245982,950000,Aptitude Test > Coding Round > HR Interview
+160,BookMyShow,Entertainment,Bangalore,2015,255329,800000,NA
+161,Capital Float,FinTech,Hyderabad,2014,477596,950000,Aptitude Test > Coding Round > HR Interview
+162,Cashify,E-commerce,Bangalore,1992,159121,850000,Online Assessment > Tech Round > Business Discussion
+163,Chaayos,Food & Beverage,Bangalore,2016,193676,800000,NA
+164,Chalo,Transportation,Pune,1985,82134,800000,Written Test > Technical Round > Managerial Interview
+165,ClearTax,FinTech,Delhi,1985,84001,950000,Aptitude Test > Coding Round > HR Interview
+166,CleverTap,SaaS,Delhi,1973,109269,800000,NA
+167,CoinSwitch Kuber,Cryptocurrency,Delhi,1989,491723,800000,NA
+168,DealShare,E-commerce,Bangalore,2012,499915,850000,Online Assessment > Tech Round > Business Discussion
+169,Eruditus,EdTech,Pune,1991,346840,750000,Demo Session > Technical Interview > HR Discussion
+170,Flock,SaaS,Hyderabad,1984,447072,800000,NA
+171,Furlenco,E-commerce,Mumbai,2008,493532,850000,Online Assessment > Tech Round > Business Discussion
+172,HealthifyMe,HealthTech,Kolkata,2017,274390,800000,NA
+173,HomeLane,Interior Design,Hyderabad,2013,480657,800000,NA
+174,Inshorts,News Aggregator,Hyderabad,2002,7179,800000,NA
+175,Jupiter,FinTech,Pune,1983,161522,950000,Aptitude Test > Coding Round > HR Interview
+176,Licious,E-commerce,Mumbai,2002,74702,850000,Online Assessment > Tech Round > Business Discussion
+177,Livspace,Interior Design,Delhi,1973,431236,800000,NA
+178,Mamaearth,E-commerce,Kolkata,1988,105182,850000,Online Assessment > Tech Round > Business Discussion
+179,MoneyTap,FinTech,Mumbai,2007,447522,950000,Aptitude Test > Coding Round > HR Interview
+180,MobiKwik,FinTech,Pune,2017,175690,950000,Aptitude Test > Coding Round > HR Interview
+181,MyGlamm,E-commerce,Hyderabad,2012,421641,850000,Online Assessment > Tech Round > Business Discussion
+182,Ninjacart,AgriTech,Mumbai,1989,377091,800000,NA
+183,Open,FinTech,Bangalore,2022,455409,950000,Aptitude Test > Coding Round > HR Interview
+184,Pepperfry,E-commerce,Kolkata,1990,418900,850000,Online Assessment > Tech Round > Business Discussion
+185,PlanetSpark,EdTech,Kolkata,1970,69006,750000,Demo Session > Technical Interview > HR Discussion
+186,Porter,Logistics,Chennai,1982,132989,800000,NA
+187,Rebel Foods,Cloud Kitchen,Delhi,2008,160505,800000,NA
+188,Swiggy Instamart,Grocery Delivery,Hyderabad,1988,300168,800000,NA
+189,XpressBees,Logistics,Delhi,1986,385401,800000,NA
+190,Zepto,E-commerce,Kolkata,1980,383771,850000,Online Assessment > Tech Round > Business Discussion
+191,Loco,Gaming,Kolkata,1994,485943,800000,NA
+192,JioMart,E-commerce,Kolkata,1988,22371,850000,Online Assessment > Tech Round > Business Discussion
+193,Trell,Social Media,Hyderabad,1984,470373,800000,NA
